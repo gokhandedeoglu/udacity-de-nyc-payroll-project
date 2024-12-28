@@ -1,0 +1,9 @@
+{
+	"name": "adfnycpayroll-gokhan-d",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd30a054-17b1-4369-9e8e-afcc0a2f2fff",
+		"tenantId": "c982c2b6-a428-4084-bb5e-41080148e88b"
+	}
+}
